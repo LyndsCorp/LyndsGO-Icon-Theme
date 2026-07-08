@@ -1,0 +1,23 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="lyndsgoAccent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a3cff"/>
+      <stop offset="100%" stop-color="#8a1eff"/>
+    </linearGradient>
+    <linearGradient id="continuousGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#4a1eff"/>
+      <stop offset="100%" stop-color="#8a1eff"/>
+    </linearGradient>
+  </defs>
+
+  <path d="M20,60 L240,60 C260,60 270,70 280,90 L300,130 L490,130 C500,130 510,140 510,150 L510,480 C510,490 500,500 490,500 L20,500 C10,500 0,490 0,480 L0,80 C0,70 10,60 20,60 Z" fill="url(#lyndsgoAccent)"/>
+    
+  <path d="M20,130 L490,130 C500,130 510,140 510,150 L510,480 C510,490 500,500 490,500 L20,500 C10,500 0,490 0,480 L0,130 L20,130 Z" fill="#0f0f17"/>
+
+  <rect x="60" y="180" width="350" height="40" rx="12" fill="url(#continuousGradient)"/>
+  <rect x="60" y="250" width="350" height="40" rx="12" fill="url(#continuousGradient)"/>
+  <rect x="60" y="320" width="250" height="40" rx="12" fill="url(#continuousGradient)"/>
+
+  <rect x="440" y="180" width="40" height="250" rx="20" fill="url(#continuousGradient)"/>
+</svg>
+<!-- Icono para Nautilus. LyndsGO Icon Theme, Lynds Icons, David Baña Szymaniak, CC-BY-SA 3.0-->

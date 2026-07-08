@@ -1,0 +1,29 @@
+[Icon Theme]
+Name=LyndsGO Icon Theme
+Comment=Tema de iconos de LyndsGO
+Inherits=adwaita,breeze,hicolor
+Directories=scalable/apps,scalable/places,scalable/mimetypes
+
+[scalable/apps]
+Size=512
+Type=Scalable
+Context=Apps
+MinSize=1
+MaxSize=512
+Threshold=2
+
+[scalable/places]
+Size=512
+Type=Scalable
+Context=Places
+MinSize=1
+MaxSize=512
+Threshold=2
+
+[scalable/mimetypes]
+Size=512
+Type=Scalable
+Context=MimeTypes
+MinSize=1
+MaxSize=512
+Threshold=2

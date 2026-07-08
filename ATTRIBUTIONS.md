@@ -1,6 +1,7 @@
 # Attributions
 
 
+
 ## Solar Icons
 
 ### Source icon:
@@ -8,5 +9,23 @@
 - Documento: https://www.svgrepo.com/svg/527689/documents (CC Attribution License)
 
 ### Used in:
-- scalable/apps/org.lyndscorp.folder-downloads.svg (contains a modified version of the Download icon)
-- scalable/apps/org.lyndscorp.folder-documents.svg
+- scalable/places/org.lyndscorp.folder-downloads.svg (contains a modified version of the Download icon)
+- scalable/places/org.lyndscorp.folder-documents.svg
+
+
+## Dazzle UI
+
+### Source icon:
+- Music: https://www.svgrepo.com/svg/532708/music (CC Attribution License)
+
+### Used in:
+- scalable/places/org.lyndscorp.folder-music.svg (contains a modified version of the Music icon)
+
+
+## Pictonic
+
+### Source icon:
+- Public: https://www.svgrepo.com/svg/508959/share (CC Attribution License)
+
+### Used in:
+- scalable/places/org.lyndscorp.folder-public.svg (contains a modified version of the Public icon)

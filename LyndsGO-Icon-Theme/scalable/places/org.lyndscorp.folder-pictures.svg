@@ -1,0 +1,21 @@
+<svg viewBox="0 0 520 512" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="folderGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#d946ef"/>
+      <stop offset="100%" stop-color="#7c3aed"/>
+    </linearGradient>
+    <linearGradient id="tabGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3b82f6"/>
+      <stop offset="100%" stop-color="#0c4a6e"/>
+    </linearGradient>
+  </defs>
+  
+  <path d="M20,60 L240,60 C260,60 270,70 280,90 L300,130 L490,130 C500,130 510,140 510,150 L510,480 C510,490 500,500 490,500 L20,500 C10,500 0,490 0,480 L0,80 C0,70 10,60 20,60 Z" fill="url(#tabGradient)"/>
+  
+  <path d="M20,130 L490,130 C500,130 510,140 510,150 L510,480 C510,490 500,500 490,500 L20,500 C10,500 0,490 0,480 L0,130 L20,130 Z" fill="url(#folderGradient)"/>
+  
+  <g transform="translate(90, 160) scale(10)">
+    <path d="M28 8v16c0 1.104-0.896 2-2 2h-21c0 1.104 0.896 2 2 2h21c1.104 0 2-0.896 2-2v-16c0-1.104-0.896-2-2-2zM27 23v-16c0-1.104-0.896-2-2-2h-21c-1.104 0-2 0.896-2 2v16c0 1.104 0.896 2 2 2h21c1.104 0 2-0.896 2-2zM4 7h21v16h-21v-16zM15.627 17.311l-2.988-3.181-2.989 5.104-2.242-2.343-2.429 5.129h19.055l-4.297-11.245-4.11 6.536zM8 14c1.104 0 2-0.896 2-2s-0.896-2-2-2-2 0.896-2 2 0.896 2 2 2z" fill="#1C274C"/>
+  </g>
+</svg>
+<!-- Icono para folder-pictures (carpeta con imagenes). LyndsGO Icon Theme, Lynds Icons, David Baña Szymaniak, CC BY-SA 3.0-->
