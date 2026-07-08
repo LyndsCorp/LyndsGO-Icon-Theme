@@ -1,0 +1,22 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="folderGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#d946ef"/>
+      <stop offset="100%" stop-color="#7c3aed"/>
+    </linearGradient>
+    <linearGradient id="tabGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3b82f6"/>
+      <stop offset="100%" stop-color="#0c4a6e"/>
+    </linearGradient>
+  </defs>
+
+  <path d="M20,60 L240,60 C260,60 270,70 280,90 L300,130 L490,130 C500,130 510,140 510,150 L510,480 C510,490 500,500 490,500 L20,500 C10,500 0,490 0,480 L0,80 C0,70 10,60 20,60 Z" fill="url(#tabGradient)"/>
+
+  <path d="M20,130 L490,130 C500,130 510,140 510,150 L510,480 C510,490 500,500 490,500 L20,500 C10,500 0,490 0,480 L0,130 L20,130 Z" fill="url(#folderGradient)"/>
+
+  <rect x="80" y="200" width="352" height="230" rx="30" ry="30" fill="none" stroke="#ffffff" stroke-width="12" />
+
+  <text x="256" y="315" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="180" font-weight="bold" font-style="italic" fill="#ffffff">GO</text>
+
+</svg>
+<!-- Icono para folder-desktop (carpeta de escritorio). LyndsGO Icon Theme, Lynds Icons Themes, David Baña Szymaniak, CC-BY-SA 3.0-->
