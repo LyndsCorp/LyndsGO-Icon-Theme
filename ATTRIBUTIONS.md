@@ -1,6 +1,14 @@
 # Attributions
 
+## Lynds Icons: LyndsGO Icon Theme
+Icon theme created by:
+- David Baña Szymaniak
 
+License:
+-  CC BY-SA 3.0
+
+When using, modifying, or redistributing LyndsGO Icon Theme, please attribute it as:
+> LyndsGO Icon Theme by David Baña Szymaniak (Lynds Icons)
 
 ## Solar Icons
 
