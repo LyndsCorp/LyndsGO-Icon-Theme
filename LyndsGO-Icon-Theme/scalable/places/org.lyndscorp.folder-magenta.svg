@@ -1,0 +1,17 @@
+<svg viewBox="0 0 520 512" xmlns="http://www.w3.org/2000/svg" style="">
+  <defs>
+    <linearGradient id="folderGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#A855F7"/>
+      <stop offset="100%" stop-color="#6B21A8"/>
+    </linearGradient>
+    <linearGradient id="tabGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#9333EA"/>
+      <stop offset="100%" stop-color="#3F0F5C"/>
+    </linearGradient>
+  </defs>
+  
+  <path d="M20,60 L240,60 C260,60 270,70 280,90 L300,130 L490,130 C500,130 510,140 510,150 L510,480 C510,490 500,500 490,500 L20,500 C10,500 0,490 0,480 L0,80 C0,70 10,60 20,60 Z" fill="url(#tabGradient)" style="stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  
+  <path d="M20,130 L490,130 C500,130 510,140 510,150 L510,480 C510,490 500,500 490,500 L20,500 C10,500 0,490 0,480 L0,130 L20,130 Z" fill="url(#folderGradient)" style="stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+</svg>
+<!-- Icono para folder-magenta (carpeta magenta/púrpura). LyndsGO Icon Theme, Lynds Icons, David Baña Szymaniak, CC BY-SA 3.0-->
