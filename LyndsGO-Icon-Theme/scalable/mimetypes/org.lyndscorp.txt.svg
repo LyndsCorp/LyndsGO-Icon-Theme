@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f0f0f0;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#dcdcdc;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <!-- Cuerpo del documento -->
+  <path d="M14 4h26l12 12v40c0 2.21-1.79 4-4 4H14c-2.21 0-4-1.79-4-4V8c0-2.21 1.79-4 4-4z" 
+        fill="url(#grad)" stroke="#999" stroke-width="2"/>
+  <!-- Esquina doblada -->
+  <path d="M40 4v12h12" fill="none" stroke="#999" stroke-width="2"/>
+  <!-- Líneas de texto simuladas -->
+  <rect x="20" y="28" width="24" height="4" rx="2" fill="#bbb"/>
+  <rect x="20" y="38" width="24" height="4" rx="2" fill="#bbb"/>
+  <rect x="20" y="48" width="16" height="4" rx="2" fill="#bbb"/>
+</svg>
+<!-- Icono para txt (archivo de texto). LyndsGO Icon Theme, Lynds Icons, David Baña Szymaniak, CC BY-SA 3.0-->
