@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100%" height="100%" version="1.1" viewBox="32 0 72 115" xmlns="http://www.w3.org/2000/svg">
+
+    <defs>
+        <linearGradient id="trashGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" stop-color="#0F172A"/>
+            <stop offset="100%" stop-color="#C026D3"/>
+        </linearGradient>
+    </defs>
+
+    <!-- BASURA MÁS ELABORADA -->
+    <g id="garbage">
+        <!-- Fondo de basura (sombras y bultos traseros) -->
+        <path d="M 38 40 L 40 15 L 55 10 L 75 18 L 85 5 L 98 15 L 100 40 Z" fill="#334155"/>
+        <path d="M 45 40 L 48 20 L 60 15 L 70 25 L 80 15 L 92 25 L 95 40 Z" fill="#475569"/>
+
+        <!-- Botella de cristal verde -->
+        <g transform="translate(42, 28) rotate(-35)">
+            <path d="M 0 8 L -3 20 L 9 20 L 6 8 Z" fill="#22C55E"/>
+            <rect x="0" y="0" width="6" height="8" fill="#22C55E" rx="1"/>
+            <rect x="-1" y="-2" width="8" height="3" fill="#16A34A" rx="1"/>
+        </g>
+
+        <!-- Lata de refresco azul -->
+        <g transform="translate(50, 18) rotate(-15)">
+            <rect x="0" y="0" width="14" height="22" fill="#22D3EE" rx="2"/>
+            <rect x="0" y="0" width="14" height="4" fill="#0891B2" rx="1"/>
+            <rect x="0" y="18" width="14" height="4" fill="#0891B2" rx="1"/>
+        </g>
+
+        <!-- Documento de papel con doblez y líneas de texto -->
+        <g transform="translate(65, 8) rotate(20)">
+            <rect x="0" y="0" width="22" height="28" fill="#F8FAFC" rx="1"/>
+            <!-- Líneas de texto -->
+            <line x1="4" y1="6" x2="18" y2="6" stroke="#94A3B8" stroke-width="2" stroke-linecap="round"/>
+            <line x1="4" y1="12" x2="16" y2="12" stroke="#94A3B8" stroke-width="2" stroke-linecap="round"/>
+            <line x1="4" y1="18" x2="18" y2="18" stroke="#94A3B8" stroke-width="2" stroke-linecap="round"/>
+            <line x1="4" y1="24" x2="10" y2="24" stroke="#94A3B8" stroke-width="2" stroke-linecap="round"/>
+            <!-- Doblez en la esquina superior derecha -->
+            <path d="M 16 0 L 22 6 L 16 6 Z" fill="#CBD5E1"/>
+        </g>
+
+        <!-- Caja de cartón o paquete rosa -->
+        <g transform="translate(82, 22) rotate(35)">
+            <rect x="0" y="0" width="16" height="16" fill="#F43F5E" rx="2"/>
+            <rect x="3" y="3" width="10" height="10" fill="#BE123C" rx="1"/>
+        </g>
+
+        <!-- Bola de papel amarillo -->
+        <path d="M 55 35 Q 52 30 58 26 Q 63 22 68 28 Q 72 25 75 32 Q 77 38 70 38 Q 60 42 55 35 Z" fill="#FBBF24"/>
+    </g>
+
+    <!-- CUERPO DE LA PAPELERA -->
+    <path
+        d="M 35 40 L 38 105 Q 38 112 46 112 L 89.47 112 Q 97.47 112 97.47 105 L 100.47 40 Z"
+        fill="url(#trashGradient)"
+        stroke="none"/>
+
+    <!-- Borde oscuro en la apertura para dar sensación de volumen y separar la basura -->
+    <line x1="35" y1="40" x2="100.47" y2="40" stroke="#0F172A" stroke-width="3" stroke-linecap="round"/>
+
+    <!-- LÍNEAS DECORATIVAS FRONTALES -->
+    <line x1="50" y1="48" x2="50" y2="102" stroke="#8B5CF6" stroke-width="2" stroke-linecap="round" opacity="0.5"/>
+    <line x1="67.73" y1="48" x2="67.73" y2="102" stroke="#8B5CF6" stroke-width="2" stroke-linecap="round" opacity="0.5"/>
+    <line x1="85.47" y1="48" x2="85.47" y2="102" stroke="#8B5CF6" stroke-width="2" stroke-linecap="round" opacity="0.5"/>
+
+</svg>
+<!-- Icono para la papelera llena (sin tapa, tamaño fluido). LyndsGO Icon Theme, Lynds Icons, David Baña Szymaniak, CC BY-SA 3.0-->

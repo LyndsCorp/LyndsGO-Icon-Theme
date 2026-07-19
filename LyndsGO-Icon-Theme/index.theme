@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=LyndsGO Icon Theme
 Comment=Tema de iconos de LyndsGO
-Inherits=adwaita,breeze,hicolor
+Inherits=adwaita
 Directories=scalable/apps,scalable/places,scalable/mimetypes
 
 [scalable/apps]

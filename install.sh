@@ -10,7 +10,11 @@ fi
 echo "ES: Instalando tema de iconos..."
 echo "EN: Installing icon theme..."
 
-cp -r LyndsGO-Icon-Theme /usr/share/icons/
-cp -r ATTRIBUTIONS.md /usr/share/icons/LyndsGO-Icon-Theme/
-cp -r LICENSE /usr/share/icons/LyndsGO-Icon-Theme/
-cp -r README.md /usr/share/icons/LyndsGO-Icon-Theme/
+cp -vr LyndsGO-Icon-Theme /usr/share/icons/
+cp ATTRIBUTIONS.md /usr/share/icons/LyndsGO-Icon-Theme/
+cp LICENSE /usr/share/icons/LyndsGO-Icon-Theme/
+cp README.md /usr/share/icons/LyndsGO-Icon-Theme/
+
+echo "--------------------------------------------------"
+echo "ES: ¡Tema de iconos instalado!"
+echo "EN: Icon theme instaled!"
