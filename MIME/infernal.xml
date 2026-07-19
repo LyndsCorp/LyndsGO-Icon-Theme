@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mime-info xmlns="http://www.freedesktop.org/standards/shared-mime-info">
+  
+  <!-- Tipo para archivos .fire -->
+  <mime-type type="mimetypes/infernal-fire">
+    <glob pattern="*.fire"/>
+    <comment>Librería de funciones para Infernal</comment>
+    <icon name="infernal-fire"/>
+  </mime-type>
+
+  <!-- Tipo para archivos .inf y .infernal -->
+  <mime-type type="application/infernal">
+    <glob pattern="*.inf"/>
+    <glob pattern="*.infernal"/>
+    <comment>Script en Infernal</comment>
+    <icon name="infernal"/>
+  </mime-type>
+
+</mime-info>
