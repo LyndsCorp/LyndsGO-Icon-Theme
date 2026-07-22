@@ -10,6 +10,25 @@ License:
 When using, modifying, or redistributing LyndsGO Icon Theme, please attribute it as:
 > LyndsGO Icon Theme by David Baña Szymaniak (Lynds Icons)
 
+
+## Adwaita Icon Theme
+
+### Attribution:
+> Adwaita Icon Theme by GNOME Project
+
+### Source:
+- Repository: https://gitlab.gnome.org/GNOME/adwaita-icon-theme
+- License: GNU Lesser General Public License (LGPL) v3 or later
+
+### Used in:
+- symbolic/
+
+### License Notice:
+The Adwaita Icon Theme assets included in this project are licensed under the GNU Lesser General Public License (LGPL) v3 or later. These assets are not covered by the CC BY-SA 3.0 license of the LyndsGO Icon Theme. When using, modifying, or redistributing Adwaita icons, you must comply with the LGPL v3 license terms.
+
+For the full LGPL v3 license text, see: https://www.gnu.org/licenses/lgpl-3.0.html
+
+
 ## Solar Icons
 
 ### Source icon:
