@@ -8,8 +8,8 @@ License:
 -  CC BY-SA 3.0
 
 When using, modifying, or redistributing LyndsGO Icon Theme, please attribute it as:
-> LyndsGO Icon Theme by David Baña Szymaniak (Lynds Icons)
-
+> LyndsGO Icon Theme (Lynds Icons)
+And keep the CC BY-SA 3.0 license.
 
 ## Adwaita Icon Theme
 
